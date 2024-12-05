@@ -71,7 +71,7 @@ export default class MyApp extends App {
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
           />
           <title>Notus NextJS by Creative Tim</title>
-          {/* <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script> */}
+          <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBysS6gqwjiXgXppHZ84-b42wcAR-DS-O4"></script>
         </Head>
         <Layout>
           <Component {...pageProps} />
